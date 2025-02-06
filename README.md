@@ -1,6 +1,6 @@
 # Hi there, I'm HARin! 👋
 
-Welcome to my GitHub profile! I am a passionate learner and love exploring programming languages. Here you can find several projects.
+Welcome to my GitHub profile!
 
 ## About Me
 - 🌱 I am currently studying programming language development.
